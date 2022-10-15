@@ -1,0 +1,22 @@
+{
+    "name": "fwalid08/bri",
+    "description": "BRI Api",
+    "version": "0.1.0",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fwalid08\\BRI\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "fahrul08",
+            "email": "fahrulwalid08@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": false
+}
